@@ -16,7 +16,7 @@ The Assessments screen is used by the manager to setup the key performance areas
 
 ![alt text](/img/ThreeSixty/Assessment.png "ThreeSixty Assessment")
 
-The application is available for evaluation at https://yellowfire-threesixty.herokuapp.com with the administrator user admin and the password of password.
+The application is available for evaluation at <a href="https://yellowfire-threesixty.herokuapp.com" target="_blank">https://yellowfire-threesixty.herokuapp.com</a> with the administrator user admin and the password of password.
 
 # User Management
 Management of user information is defined as an administrative role within the system. The `Reports To` user is defined as the manager or team lead that would assess the performance of the employee and the `Email` is used to notify the user that a piece of the assessment workflow is completed and the next steps to be completed.
