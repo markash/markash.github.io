@@ -61,7 +61,7 @@ me-img: "/img/author.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#fefefe"
 apple-status-bar-style: "black"
 
 ################
@@ -134,7 +134,7 @@ email: "mp.ashworth@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "To develop or not to develop!?!?! What a stupid question, for it is to mash bit, bytes and logic to solve the mold a solution that answers the question."
+author_blurb: "To develop or not to develop!?!?! Don't be daft, what better than to create, mold and experiment to create the truly exceptional."
 author_blurb_image: "/img/author.png"
 
 ##################
