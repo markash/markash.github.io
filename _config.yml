@@ -28,9 +28,9 @@ force-https: True
 
 lang: "en"
 author: "Mark Ashworth"
-title: "{ Mark Ashworth }"
+title: "private const String name = \"Mark Ashworth\""
 description: "Coding, reading, photography"
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "Mark,Ashworth,Java,Spring Boot,Vaadin,ThreeSixty,Developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -110,11 +110,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "October 2016 - Today"
+    description: "Assessing performance!!"
+#  - image: "/img/timeline/baracktocat.jpg"
+#    date: "September 2007 - August 2013"
+#    description: "Started coding"
 
 # First image of the Timeline
 
@@ -134,7 +134,7 @@ email: "mp.ashworth@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Mark Ashworth is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "To develop or not to develop!?!?! What a stupid question, for it is to mash bit, bytes and logic to solve the mold a solution that answers the question."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -157,15 +157,15 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+fourofour-img: "/img/labtocat.png"
 
 ##################
 # GPG on Keybase #
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
