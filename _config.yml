@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/satelite.svg"
+  - image: "/img/timeline/satelite.png"
     date: "October 2016 - Inception"
     description: "A dream within a dream of an idea, the most resilient of parasites"
   - image: "/img/timeline/baracktocat.jpg"
