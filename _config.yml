@@ -112,13 +112,13 @@ events:
   - image: "/img/timeline/satelite.png"
     date: "October 2016 - Inception"
     description: "A dream within a dream of an idea, the most resilient of parasites"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/particle.png"
     date: "November 2016 - Organization"
     description: "The pieces are coming together"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/alien.png"
 
 ###########
 # Contact #
