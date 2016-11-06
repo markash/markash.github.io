@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15mm"
-   height="15mm"
-   viewBox="0 0 53.149608 53.149605"
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 70.866144 70.86614"
    id="svg4826"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="satelite.svg">
+   sodipodi:docname="satelite.svg"
+   inkscape:export-filename="C:\SDE\projects\sts\markash.github.io\img\timeline\satelite.png"
+   inkscape:export-xdpi="198.12"
+   inkscape:export-ydpi="198.12">
   <title
      id="title5394">Satelite</title>
   <defs
@@ -54,9 +57,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-999.21261)">
+     transform="translate(0,-981.49607)">
     <g
-       transform="translate(-330.59518,709.96367)"
+       transform="translate(-323.09518,702.10653)"
        id="g4801">
       <circle
          r="14.647212"

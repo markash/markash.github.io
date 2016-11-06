@@ -1,0 +1,19 @@
+{
+  "name": "markash.github.io",
+  "version": "1.0.0",
+  "description": "![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)\r [![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PanosSakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markash/markash.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markash/markash.github.io/issues"
+  },
+  "homepage": "https://github.com/markash/markash.github.io#readme"
+}
